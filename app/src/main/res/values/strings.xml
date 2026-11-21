@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Smart Business</string>
+    <string name="brand_full_name">Smart Business Toolkit</string>
+    <string name="brand_tagline_hi">आपका छोटा बिजनेस, अब स्मार्ट तरीके से।</string>
+    <string name="brand_price_tag">₹399/month</string>
+    <string name="cd_app_logo">Smart Business Toolkit logo</string>
+    <string name="cd_business_logo">Business profile logo</string>
+    <string name="cd_hero_banner">Smart Business Toolkit SaaS illustration</string>
+    <string name="cd_empty_state">No records found illustration</string>
+    <string name="cd_nav_menu">Open navigation drawer</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_theme_toggle">Toggle light or dark theme</string>
+    <string name="cd_language_toggle">Switch between English and Hindi</string>
+    <string name="cd_search">Search records</string>
+    <string name="cd_clear_search">Clear search query</string>
+</resources>

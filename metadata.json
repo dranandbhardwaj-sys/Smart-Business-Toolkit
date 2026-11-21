@@ -1,0 +1,6 @@
+{
+  "name": "Smart Business",
+  "description": "Smart Business Toolkit — Indian small-business SaaS platform for GST billing, customers, expenses, UPI payments, inventory, and business reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
